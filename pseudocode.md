@@ -1,4 +1,4 @@
-## Original Protocol
+## Original Kolon Protocol
 
 1. As players arrive, they are assigned a number for the night, in order of arrival. 
 2. The host is always #1! Whoohoo!
